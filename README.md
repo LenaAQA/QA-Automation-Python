@@ -65,7 +65,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист API](https://docs.google.com/spreadsheets/d/14sLpsbs25MEWvn-0jcpwSqEJHPZooKcu/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true) 
 
-&nbsp;&nbsp;&nbsp;&nbsp;● [Postman коллекция API тестов для Petstore API.](https://drive.google.com/file/d/192cOeM5Do8gm_32dRZIptq1T2QfPtjiz/view?usp=drive_link) 
+&nbsp;&nbsp;&nbsp;&nbsp;● [Postman коллекция API тестов для Petstore API](https://drive.google.com/file/d/192cOeM5Do8gm_32dRZIptq1T2QfPtjiz/view?usp=drive_link) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/17Hh4McFIMwpTiEn5O54P4rzqOZmY30H_/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true)  
 
