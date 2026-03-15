@@ -96,7 +96,8 @@
   <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="Git" alt="Git" width="50" height="50"/>
   <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="GitHub" alt="GitHub" width="50" height="50"/>
   <img src="https://allurereport.org/public/img/allure-report.svg" title="Allure" alt="Allure" width="50" height="50"/>
-
+<br>
+<h4><span>REQUESTS</span> | <span>HTTPX</span></h4>
 </div>
 
 ---
