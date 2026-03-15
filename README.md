@@ -33,6 +33,11 @@
 ---
 
 <h2>🎓 Пройденные курсы:</h2>
+### 📜 Автоматизация тестирования API с Python. Расширенный (HTTPX, Pydantic, Faker, Pytest и Allure) (Никита Филонов)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Репозиторий проекта](https://github.com/LenaAQA/autotests-api)  
+
+### 📜 QA Engineer: ручное и автоматизированное тестирование (Авито)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1-tX4h4WkaywS81APp7cQ55-6SCs7AfGe/view?usp=drive_link)  
 
 ### 📜 Автоматизация тестирования на Python (Selenium, Pytest, Allure, POM) (RedRover.School)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Репозиторий автотестов для Jenkins](https://github.com/LenaAQA/jenkins-python-autotests)  
