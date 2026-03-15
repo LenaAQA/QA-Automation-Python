@@ -8,15 +8,19 @@
 
 
 <p align="justify">Я инженер по тестированию ПО, совмещающий навыки ручного и автоматизированного тестирования.<br> 
+  
 Я прошла обучение по автоматизации тестирования на Python в RedRover.School, где работала с Selenium, Pytest, Allure и шаблоном Page Object Model (POM). Получила практический опыт написания тест-кейсов, создания автотестов, их рефакторинга и генерации отчётности в Allure. <br>
 Имею опыт тестирования REST API: проверка статус-кодов, заголовков, структуры и содержимого ответов, негативных сценариев, граничных значений и некорректных входных данных. Прошла курс по автоматизации API-тестирования, где разработала production-like фреймворк API-автотестов с использованием HTTPX, Pydantic, Faker, Pytest и Allure, интегрировала автотесты в CI/CD. <br>
 Также окончила курс Артёма Русова «Тестирование ПО с нуля. Теория + Практика», где изучила основы тестирования и освоила работу с инструментами DevTools, JIRA, Confluence, Test IT, Postman, SOAPUI, Charles Proxy, MySQL, Android Studio, Git, Bash. <br>
+  
 В рамках учебных и pet-проектов разработала: <br>
 ≈ 70 тест-кейсов и ≈ 40 UI-автотестов <br>
 ≈ 40 API-автотестов с проверкой бизнес-логики и структуры ответов <br>
 ≈ чек-лист тестирования API, 50 тест-кейсов на его основе и Postman-коллекцию из 50 запросов с автопроверками на JavaScript. <br>
+
 Ранее более 10 лет работала оператором ЭВМ, где занималась регистрацией и анализом ошибок программного обеспечения и оборудования, а также взаимодействием с техническими специалистами при их устранении. <br>
 Также имею небольшой опыт бета-тестирования системы SAP для учёта рабочего времени: написание чек-листов, анализ функциональности, выявление ошибок и предоставление обратной связи разработчикам. <br>
+
 Готова осваивать новые инструменты и технологии и при необходимости адаптироваться к используемому в проекте стеку. Нацелена на долгосрочное сотрудничество.  <br>
 Буду рада рассказать о себе подробнее на собеседовании. <br> 
 </p>
@@ -33,8 +37,10 @@
 ---
 
 <h2>🎓 Пройденные курсы:</h2>
-### 📜 Автоматизация тестирования API с Python. Расширенный (HTTPX, Pydantic, Faker, Pytest и Allure) (Никита Филонов)  
-&nbsp;&nbsp;&nbsp;&nbsp;● [Репозиторий проекта](https://github.com/LenaAQA/autotests-api)  
+
+### 📜 Автоматизация тестирования API с Python. Расширенный (HTTPX, Pydantic, Faker, Pytest и Allure) (Никита Филонов)
+
+&nbsp;&nbsp;&nbsp;&nbsp;● [Репозиторий проекта](https://github.com/LenaAQA/autotests-api)
 
 ### 📜 QA Engineer: ручное и автоматизированное тестирование (Авито)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1-tX4h4WkaywS81APp7cQ55-6SCs7AfGe/view?usp=drive_link)  
@@ -53,7 +59,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1IfJXotO55t2BIY8F5maNpFAGR1YMx-m-/view?usp=drive_link)  
 
 ### 📜 Тестирование ПО с нуля. Теория + Практика (Курс Артёма Русова)  
-&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1JBV3N70f2Qokpq-BfWgYLYIgbUhjgLk6/view?usp=drive_link)
+
+&nbsp;&nbsp;&nbsp;&nbsp;● [Тест-кейсы API](https://docs.google.com/spreadsheets/d/162E00FlwP7rQ2AfLMO8SD9Z4UAEaxDvz/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true) 
+
+&nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист API](https://docs.google.com/spreadsheets/d/14sLpsbs25MEWvn-0jcpwSqEJHPZooKcu/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true) 
 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/17Hh4McFIMwpTiEn5O54P4rzqOZmY30H_/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true)  
 
