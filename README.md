@@ -48,6 +48,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● [E2E сценарии](https://docs.google.com/spreadsheets/d/1D97DU7JBcK6ni-aqfGN2Syabj9SfUkMCCzlAuEee02o/edit?gid=0#gid=0) 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Чек-листы](https://docs.google.com/spreadsheets/d/1WtUZZAJcIX_D9JO4K-g_zMVIO901A7WHSVVlz3TgQTM/edit?gid=0#gid=0)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Тест кейсы API](https://github.com/LenaAQA/avito-qa-internship/blob/main/TESTCASES.md)
+&nbsp;&nbsp;&nbsp;&nbsp;● [Работа с требованиями](https://docs.google.com/document/d/1yxkbQ93dg_S0idThVP32t6avebgzbY78/edit)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Баги API](https://github.com/LenaAQA/avito-qa-internship/blob/main/BUGS.md)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Баги UI](https://github.com/LenaAQA/avito-qa-internship/blob/main/BUGS_TASK_1.md) 
 &nbsp;&nbsp;&nbsp;&nbsp;● [API-тесты (Python, HTTPX, Pydantic, Faker, Pytest и Allure)](https://github.com/LenaAQA/avito-qa-internship)
