@@ -43,7 +43,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● [Репозиторий проекта](https://github.com/LenaAQA/autotests-api)
 
 ### 📜 QA Engineer: ручное и автоматизированное тестирование (Авито)  
-&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1-tX4h4WkaywS81APp7cQ55-6SCs7AfGe/view?usp=drive_link)  
+&nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1-tX4h4WkaywS81APp7cQ55-6SCs7AfGe/view?usp=drive_link) 
+&nbsp;&nbsp;&nbsp;&nbsp;● [Тест-кейсы](https://docs.google.com/spreadsheets/d/1TOEOSTSIW-zUPOj1jF6E_vT0-g-cK76kzwK_FNbhfDM/edit?gid=0#gid=0) 
+&nbsp;&nbsp;&nbsp;&nbsp;● [E2E сценарии](https://docs.google.com/spreadsheets/d/1D97DU7JBcK6ni-aqfGN2Syabj9SfUkMCCzlAuEee02o/edit?gid=0#gid=0) 
+&nbsp;&nbsp;&nbsp;&nbsp;● [Чек-листы](https://docs.google.com/spreadsheets/d/1WtUZZAJcIX_D9JO4K-g_zMVIO901A7WHSVVlz3TgQTM/edit?gid=0#gid=0) 
 
 ### 📜 Автоматизация тестирования на Python (Selenium, Pytest, Allure, POM) (RedRover.School)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Репозиторий автотестов для Jenkins](https://github.com/LenaAQA/jenkins-python-autotests)  
