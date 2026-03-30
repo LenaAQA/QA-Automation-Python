@@ -50,8 +50,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● [Тест кейсы API](https://github.com/LenaAQA/avito-qa-internship/blob/main/TESTCASES.md)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Баги API](https://github.com/LenaAQA/avito-qa-internship/blob/main/BUGS.md)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Баги UI](https://github.com/LenaAQA/avito-qa-internship/blob/main/BUGS_TASK_1.md) 
-&nbsp;&nbsp;&nbsp;&nbsp;● [API-тесты (Python)](https://github.com/LenaAQA/avito-qa-internship)
-
+&nbsp;&nbsp;&nbsp;&nbsp;● [API-тесты (Python, HTTPX, Pydantic, Faker, Pytest и Allure)](https://github.com/LenaAQA/avito-qa-internship)
+&nbsp;&nbsp;&nbsp;&nbsp;● [API-тесты (Go, Testify)](https://github.com/LenaAQA/api-tests-course-avito)
+&nbsp;&nbsp;&nbsp;&nbsp;● [UI-тесты (TypeScript, Playwright)](https://github.com/LenaAQA/avito-qa-internship)
 
 ### 📜 Автоматизация тестирования на Python (Selenium, Pytest, Allure, POM) (RedRover.School)  
 &nbsp;&nbsp;&nbsp;&nbsp;● [Репозиторий автотестов для Jenkins](https://github.com/LenaAQA/jenkins-python-autotests)  
