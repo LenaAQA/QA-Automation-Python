@@ -92,54 +92,58 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● [Сертификат](https://drive.google.com/file/d/1YhWicbKstmbMlk9DMMe9i_ACazif4eif/view?usp=drive_link)  
 
 ---
-
 <h2>💻 Работа с кодом:</h2>
 
+<table>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50"/></td>
+    <td><img src="https://selenium.dev/images/selenium_logo_square_green.png" width="47"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0612e977-ae90-417b-9d66-4d19b9e98c0b" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" width="50"/></td>
+    <td><img src="https://allurereport.org/public/img/allure-report.svg" width="50"/></td>
+  </tr>
+</table>
 
-
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="50" height="50"/>
-  <img src="https://selenium.dev/images/selenium_logo_square_green.png" title="Selenium" alt="Selenium" width="47" height="47"/>
-  <img src="https://github.com/user-attachments/assets/0612e977-ae90-417b-9d66-4d19b9e98c0b" title="Pytest" alt="Pytest" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/d365f52c-62cf-42d1-8df0-6c1f607cd0bf" title="Git" alt="Git" width="50" height="50"/>
-  <img src="https://github.com/user-attachments/assets/00fd733b-81a4-4413-9277-c182e2aac827" title="GitHub" alt="GitHub" width="50" height="50"/>
-  <img src="https://allurereport.org/public/img/allure-report.svg" title="Allure" alt="Allure" width="50" height="50"/>
-<br>
-<h4><span>REQUESTS</span> | <span>HTTPX</span></h4>
-</div>
+![Requests](https://img.shields.io/badge/Requests-black?style=for-the-badge&logo=python&logoColor=white)
+![HTTPX](https://img.shields.io/badge/HTTPX-black?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
 <h2>📁 Документация:</h2>
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" title="Confluence" alt="Confluence" width="50" height="50"/>&nbsp;
-  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test-IT" alt="Test-IT" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" title="Google Sheets" alt="Google Sheets" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" title="Excel" alt="Excel" width="55" height="55"/>&nbsp;  
-</div>
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="55"/></td>
+    <td><img src="https://github.com/user-attachments/assets/9e50a826-e10b-4de8-81f2-b38dfe4cc06b" width="50"/></td>
+    <td><img src="https://docs.testit.software/images/testit_logo_icon_blue.png" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b5093ee6-6e76-4b48-b468-09caf8d8e46f" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/c77b2248-482a-4f54-a6dc-be58845d5bee" width="55"/></td>
+  </tr>
+</table>
 
 ---
 
 <h2>🛠 Инструменты:</h2>
 
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="DevTools" width="50" height="50"/>&nbsp;
-  <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>&nbsp;
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="SoapUI" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/f689c1da-4b7d-47a1-80d2-0e29a21034a3" title="Android Studio" alt="Android Studio" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/bb877f1a-3b2c-4a0b-ae82-9b4c8440373e" title="Charles Proxy" alt="Charles Proxy" width="50" height="50"/>&nbsp;
-</div>
+<table>
+  <tr>
+    <td><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="50"/></td>
+    <td><img src="https://icon.icepanel.io/Technology/svg/Postman.svg" width="50"/></td>
+    <td><img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/f689c1da-4b7d-47a1-80d2-0e29a21034a3" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bb877f1a-3b2c-4a0b-ae82-9b4c8440373e" width="50"/></td>
+  </tr>
+</table>
 
 ---
 
 <h2>💾 Работа с данными:</h2>
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL Command Line" alt="MySQL Command Line" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" title="MySQL Workbench" alt="MySQL Workbench" width="50" height="50"/>&nbsp;
-</div>
-
----
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/></td>
+    <td><img src="https://github.com/user-attachments/assets/a22f6701-df80-41de-91a9-1756851b9a97" width="50"/></td>
+  </tr>
+</table>
