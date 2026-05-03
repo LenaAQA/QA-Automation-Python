@@ -79,7 +79,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;● [Тест-кейсы API](https://docs.google.com/spreadsheets/d/162E00FlwP7rQ2AfLMO8SD9Z4UAEaxDvz/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true) 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист API](https://docs.google.com/spreadsheets/d/14sLpsbs25MEWvn-0jcpwSqEJHPZooKcu/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true) 
 &nbsp;&nbsp;&nbsp;&nbsp;● [Postman коллекция API тестов для Petstore API](https://drive.google.com/file/d/192cOeM5Do8gm_32dRZIptq1T2QfPtjiz/view?usp=drive_link) 
-&nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/17Hh4McFIMwpTiEn5O54P4rzqOZmY30H_/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;● [Чек-лист Stepik Поиск](https://docs.google.com/spreadsheets/d/17Hh4McFIMwpTiEn5O54P4rzqOZmY30H_/edit?usp=drive_link&ouid=104831596261448590450&rtpof=true&sd=true)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Отчёт о дефекте Coursera Google](https://drive.google.com/file/d/1meTdyzK59GFpI0td-_34rZNxI8DWYmmP/view?usp=drive_link)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Тестовое задание Python, SQL](https://drive.google.com/file/d/1ct8QoDS5MSSkKjqrN55jqyWfVthhi4J9/view?usp=drive_link)
 &nbsp;&nbsp;&nbsp;&nbsp;● [Тест-кейс TestIT](https://drive.google.com/file/d/133iMN5WR2oZ8Zf9DVd3Gj1GmYxX-ceCr/view?usp=drive_link)  
